@@ -24,4 +24,4 @@ Examine the flowchart (`xto10x_hackathon.png`) to understand the project framewo
 Review the presentation (`KrishnSingh xto10x Hackathon PPT.pdf`) for a concise overview of the project and its main outcomes.
 
 **Step 4:**
-Short PPT Video is available to all on the link (`https://drive.google.com/file/d/1U3t3JPD70VUv2-vhejzpIGQZkvaSj3yH/view?usp=sharing`)
+[View Short PPT Project Video on Google Drive](https://drive.google.com/file/d/1U3t3JPD70VUv2-vhejzpIGQZkvaSj3yH/view?usp=sharing)
